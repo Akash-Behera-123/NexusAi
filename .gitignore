@@ -19,3 +19,7 @@ dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+
+# Uploaded documents and local RAG data
+/data/documents/
